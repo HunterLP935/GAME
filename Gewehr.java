@@ -15,6 +15,6 @@ public class Gewehr extends Figur
         super();
         PositionSetzen(x, y);
         this.Gewehrzeichnen();
-    
+        this.GanzNachVornBringen();
     }
 }
